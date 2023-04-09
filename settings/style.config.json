@@ -1,0 +1,47 @@
+{
+    "light_mode": {
+        "buttons": {
+            "background": "black",
+            "color":"white",
+            "border_color":"#9e9e9e",
+
+            "content_background": "#FF5722",
+
+            "switch_background": "black",
+            "switch_color": "#ff9d21",
+            "switch_border_color": "black",
+            "hover_switch_background": "#ff9d21",
+
+            "hover_color":"#9e9e9e",
+            "hover_background": "white",
+            "hover_border_color": "#9e9e9e",
+            
+            "active_color":"black",
+            "active_background":"white",
+            "active_border_color":"black"
+        }
+    },
+
+    "dark_mode":{
+        "buttons": {
+            "background": "white",
+            "color": "black",
+            "border_color": "white",
+
+            "content_background": "#FF5722",
+
+            "switch_background": "#ff9d21",
+            "switch_color": "black",
+            "switch_border_color": "#ff9d21",
+            "hover_switch_background": "black",
+
+            "hover_background": "blue",
+            "hover_color": "white",
+            "hover_border_color": "yellow",
+            
+            "active_color": "black",
+            "active_background": "white",
+            "active_border_color": "black"
+        }
+    }
+}
